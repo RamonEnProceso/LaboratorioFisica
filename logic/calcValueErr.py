@@ -29,4 +29,6 @@ def calcValueErr(data,instrumento):
     
     dataPlus["volumen"] = roundCatedra(dataPlus["volumenInicial"],dataPlus["cilindroErr"])
     
+    dataPlus["volumenErrMax"], dataPlus["volumenErrMin"] = calcMaxMin(dataPlus["volumen"][0],dataPlus["volumen"][1])
+    
     return dataPlus
