@@ -1,10 +1,10 @@
 {
     "regla":{
         "medida":{
-            "diametro":12.5,
-            "altura":49.5
+            "diametro":12,
+            "altura":49
         },
-        "err":0.5
+        "err":1
     },
     "calibre":{
         "medida":{
