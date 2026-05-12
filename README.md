@@ -1,4 +1,4 @@
-# Laboratorio de Física - TP1 - Visualización de Intervalos de Medición
+# TP1 - Visualización de Intervalos de Medición
 
 Este proyecto es una herramienta diseñada para automatizar el procesamiento de datos experimentales obtenidos en el laboratorio de física. El programa lee mediciones desde un archivo JSON, calcula la propagación de errores e incertidumbres, y genera gráficos comparativos para analizar la precisión entre diferentes instrumentos de medición (Regla vs. Calibre).
 
