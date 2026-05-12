@@ -23,6 +23,7 @@ def main ():
         "Hc",
         0.5
           )
+    plt.title("Comparación de altura (mm)")
     plt.show()
     
     #/////////////////////
@@ -42,7 +43,7 @@ def main ():
         "Dc",
         0.5
           )
-    
+    plt.title("Comparación de diámetro (mm)")
     plt.show()
     
     #/////////////////////
@@ -62,7 +63,7 @@ def main ():
         "Vc",
         0.5
           )
-    
+    plt.title("Comparación de volumen (mm^3)")
     plt.show()
     
     
